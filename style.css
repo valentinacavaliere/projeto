@@ -3,6 +3,12 @@
     padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+footer{
+    background-color: lightpink;
+}
+footer p{
+    font-size: 30px;
+}
 body{
     background-color: tomato;
 }
